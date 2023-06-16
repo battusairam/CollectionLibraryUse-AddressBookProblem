@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\CollectionLibraryUse-AddressBookProblem\bin\Debug\net6.0\CollectionLibraryUse-AddressBookProblem.exe
+C:\Users\HP\source\repos\CollectionLibraryUse-AddressBookProblem\bin\Debug\net6.0\CollectionLibraryUse-AddressBookProblem.deps.json
+C:\Users\HP\source\repos\CollectionLibraryUse-AddressBookProblem\bin\Debug\net6.0\CollectionLibraryUse-AddressBookProblem.runtimeconfig.json
+C:\Users\HP\source\repos\CollectionLibraryUse-AddressBookProblem\bin\Debug\net6.0\CollectionLibraryUse-AddressBookProblem.dll
+C:\Users\HP\source\repos\CollectionLibraryUse-AddressBookProblem\bin\Debug\net6.0\CollectionLibraryUse-AddressBookProblem.pdb
+C:\Users\HP\source\repos\CollectionLibraryUse-AddressBookProblem\obj\Debug\net6.0\CollectionLibraryUse-AddressBookProblem.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CollectionLibraryUse-AddressBookProblem\obj\Debug\net6.0\CollectionLibraryUse-AddressBookProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CollectionLibraryUse-AddressBookProblem\obj\Debug\net6.0\CollectionLibraryUse-AddressBookProblem.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CollectionLibraryUse-AddressBookProblem\obj\Debug\net6.0\CollectionLibraryUse-AddressBookProblem.AssemblyInfo.cs
+C:\Users\HP\source\repos\CollectionLibraryUse-AddressBookProblem\obj\Debug\net6.0\CollectionLibraryUse-AddressBookProblem.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CollectionLibraryUse-AddressBookProblem\obj\Debug\net6.0\CollectionLibraryUse-AddressBookProblem.dll
+C:\Users\HP\source\repos\CollectionLibraryUse-AddressBookProblem\obj\Debug\net6.0\refint\CollectionLibraryUse-AddressBookProblem.dll
+C:\Users\HP\source\repos\CollectionLibraryUse-AddressBookProblem\obj\Debug\net6.0\CollectionLibraryUse-AddressBookProblem.pdb
+C:\Users\HP\source\repos\CollectionLibraryUse-AddressBookProblem\obj\Debug\net6.0\CollectionLibraryUse-AddressBookProblem.genruntimeconfig.cache
+C:\Users\HP\source\repos\CollectionLibraryUse-AddressBookProblem\obj\Debug\net6.0\ref\CollectionLibraryUse-AddressBookProblem.dll

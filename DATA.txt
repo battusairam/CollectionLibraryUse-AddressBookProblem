@@ -1,0 +1,10 @@
+Address Book: My Personal Data
+Name: Karan Depale
+Address: Village kasrawad
+City: Khargone
+State: madhya pradesh
+ZIP: 451228
+Phone: 1234567895
+Email: Test@gmail.com
+
+
